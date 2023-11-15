@@ -1,5 +1,15 @@
 body {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
+.card-wrapper {
+  display: flex;
+  padding: 2rem;
+}
+
+.card {
+  padding: 2rem;
 }
 
 img {
